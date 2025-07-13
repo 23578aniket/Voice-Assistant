@@ -1,0 +1,11 @@
+def fib(n):
+    a,b=0,1
+    count=0
+    for i in range(n+1):
+        a,b = b, a+b
+        print(a, end='')
+        count+=1
+        
+print(int(input("Enter the number: ")))
+fib(n)
+
