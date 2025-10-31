@@ -1,0 +1,8 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+wikipedia
+pyautogui
+requests
+# Streamlit is NOT included as this is a console app, 
+# but could be added if you build a GUI later.
